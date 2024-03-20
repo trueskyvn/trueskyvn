@@ -1,0 +1,157 @@
+{
+    "PRODUCTS": [
+        {
+            "code": "H01",
+            "idcategory": "2",
+            "productName": "Tẩy tế bào chết da mặt Truesky Orange Peeling Gel dạng gel chiết xuất cam 50g",
+            "material": "Cotons",
+            "price": "65000",
+            "amount": "10",
+            "entry": "2019-11-04",
+            "image": "123.webp"
+        },
+        {
+            "code": "H02",
+            "idcategory": "2",
+            "productName": "Gel rửa mặt ngăn ngừa mụn Truesky Centella Cleanser chiết xuất rau má 50g",
+            "material": "Contons",
+            "price": "70000",
+            "amount": "2",
+            "entry": "2019-11-04",
+            "image": "22.jpg"
+        },
+        {
+            "code": "H03",
+            "idcategory": "2",
+            "productName": "Sữa rửa mặt sáng da và dưỡng ẩm Truesky Glutathione Cleanser chiết xuất sữa dê 50g",
+            "material": "Cotons",
+            "price": "55000",
+            "amount": "3",
+            "entry": "2019-11-04",
+            "image": "quyen.webp"
+        },
+        {
+            "code": "H04",
+            "idcategory": "3",
+            "productName": "Bigsize - Kem dưỡng trắng da toàn thân Truesky Whitening Body Lotion chiết xuất bơ shea 200g",
+            "material": "Contons",
+            "price": "175000",
+            "amount": "10",
+            "entry": "2019-11-04",
+            "image": "qua.webp"
+        },
+        {
+            "code": "H05",
+            "idcategory": "3",
+            "productName": "Bigsize - Kem ủ trắng toàn thân Truesky Whitening Body Cream chiết xuất rễ cây cam thảo 200g",
+            "material": "Contons",
+            "price": "150000",
+            "amount": "2",
+            "entry": "2019-11-04",
+            "image": "xa.webp"
+        },
+        {
+            "code": "H06",
+            "idcategory": "3",
+            "productName": "Bigsize - Kem dưỡng trắng da mặt Truesky Whitening Face Cream chiết xuất sữa ong chúa 30g",
+            "material": "Contons",
+            "price": "180000",
+            "amount": "2",
+            "entry": "2019-11-04",
+            "image": "ma.webp"
+        },
+        {
+            "code": "H07",
+            "idcategory": "3",
+            "productName": "Kem ủ trắng toàn thân Truesky Whitening Body Cream chiết xuất rễ cây cam thảo 100g",
+            "material": "Contons",
+            "price": "160000",
+            "amount": "1",
+            "entry": "2019-11-04",
+            "image": "la.webp"
+        },
+        {
+            "code": "H08",
+            "idcategory": "3",
+            "productName": "Kem dưỡng trắng da mặt Truesky Whitening Face Cream chiết xuất sữa ong chúa 20g",
+            "material": "Contons",
+            "price": "165000",
+            "amount": "2",
+            "entry": "2019-11-04",
+            "image": "mit.webp"
+        },
+        {
+            "code": "G01",
+            "idcategory": "0",
+            "productName": "Bigsize - Bộ sản phẩm tan mỡ bụng Truesky an toàn và hiệu quả gồm 1 kem tan mỡ bụng quế gừng 200g + 1 đại nịt bụng quấn nóng",
+            "material": "Textile",
+            "price": "199000",
+            "amount": "2",
+            "entry": "2019-11-04",
+            "image": "444.webp"
+        },
+        {
+            "code": "G02",
+            "idcategory": "0",
+            "productName": "Bộ sản phẩm tan mỡ bụng Truesky an toàn và hiệu quả gồm 1 kem tan mỡ bụng quế gừng 100g + 1 đại nịt bụng quấn nóng",
+            "material": "Textile",
+            "price": "159000",
+            "amount": "2",
+            "entry": "2019-11-04",
+            "image": "ii.webp"
+        },
+        {
+            "code": "G03",
+            "idcategory": "0",
+            "productName": "Bigsize - Kem tan mỡ bụng Truesky S Body Cream chiết xuất quế gừng an toàn và hiệu quả 200g",
+            "material": "Textile",
+            "price": "170000",
+            "amount": "12",
+            "entry": "2019-11-04",
+            "image": "khong.webp"
+        },
+        {
+            "code": "G04",
+            "idcategory": "0",
+            "productName": "Kem tan mỡ bụng Truesky S Body Cream chiết xuất quế gừng an toàn và hiệu quả 100g",
+            "material": "Textile",
+            "price": "190000",
+            "amount": "5",
+            "entry": "2019-11-04",
+            "image": "hihi.webp"
+        },
+        {
+            "code": "G05",
+            "idcategory": "4",
+            "productName": "Mặt nạ đất sét dưỡng ẩm Truesky Oat Kaolin Clay Mask chiết xuất bột yến mạch 30g",
+            "material": "Textile",
+            "price": "180000",
+            "amount": "12",
+            "entry": "2019-11-04",
+            "image": "nguyen.webp"
+        },
+        {
+            "code": "G06",
+            "idcategory": "4",
+            "productName": "Hộp 10 miếng mặt nạ dưỡng trắng và ngừa lão hoá Truesky Integrated Mask chiết xuất hoa hồng đá 25g/miếng",
+            "material": "Textile",
+            "price": "200000",
+            "amount": "2",
+            "entry": "2019-11-04",
+            "image": "thuc.webp"
+        },
+        {
+            "code": "G07",
+            "idcategory": "4",
+            "productName": "Mặt nạ dưỡng trắng da và ngăn ngừa lão hoá Truesky Integrated Mask chiết xuất hoa hồng đá 25g",
+            "material": "Textile",
+            "price": "1000000",
+            "amount": "1",
+            "entry": "2019-11-04",
+            "image": "doanh.webp"
+        }
+       
+    ],
+    "ACCOUNTS": [],
+    "ORDERS": []
+}
